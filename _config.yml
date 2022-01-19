@@ -125,10 +125,14 @@ navigation_header:
   url: /
 - title: Resume
   url: /elements/
-- title: Blog
-  url: /blog/
 - title: Reseach
   url: /categories/
+- title: Blog
+  url: /blog/
+- title: Art
+  url: /art/
+- title: Contact
+  url: /contact/
 - title: Search
   url: /search/
 
