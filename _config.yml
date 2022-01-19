@@ -122,15 +122,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: drn/
+  url: /
 - title: Elements
-  url: drn/elements/
+  url: /elements/
 - title: Blog
-  url: drn/blog/
+  url: /blog/
 - title: Categories
-  url: drn/categories/
+  url: /categories/
 - title: Search
-  url: drn/search/
+  url: /search/
 - title: Fork Alembic
   url: https://github.com/desmond-rn/alembic
 
