@@ -7,15 +7,13 @@ excerpt: "A simple website about your average PhD researcher in AI"
 aside: true
 ---
 
-# About Me
-
-# Current Projects
 
 # Current Research
 
+# Current Projects
+
 # Latest Posts
 
-# Hobbies and interests
+# Hobbies and Interests
 
-# So, yeah... That's Me !
-
+# So, Yeah... That's Me !

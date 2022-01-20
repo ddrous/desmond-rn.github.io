@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Roussel's Personal Website" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "I'm a PhD candidate, TA, Outreach Ambasador at the University of Bristol" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -123,9 +123,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: About
   url: /
-- title: Resume
+- title: CV
   url: /elements/
-- title: Reseach
+- title: Research
   url: /categories/
 - title: Blog
   url: /blog/
@@ -133,8 +133,8 @@ navigation_header:
   url: /art/
 - title: Contact
   url: /contact/
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
 
 navigation_footer:
 - title: Template by David Darnes
