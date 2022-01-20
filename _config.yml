@@ -95,8 +95,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Roussel's personal website -" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "I'm a PhD candidate, TA, Outreach Ambasador at the University of Bristol" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "I'm a PhD candidate, TA, Outreach Ambasador at the University of Bristol." # Site description and default description, also used in jekyll-seo-tag
+url: "https://desmond-rn.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/desmond-rn/desmond-rn.github.io"
 email: "desmond.ngueguin@gmail.com"
@@ -121,7 +121,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: About
+- title: Home
   url: /
 - title: CV
   url: /elements/
@@ -144,7 +144,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/rdnzoyem
   LinkedIn: https://www.linkedin.com/in/roussel-desmond-nzoyem
   GitHub: https://github.com/desmond-rn
-  # link: https://darn.es
+  link: https://desmond-rn.github.io/
   # Upwork: https://darn.es
   # BuyMeACoffee: https://darn.es
   RSS: /feed.xml
