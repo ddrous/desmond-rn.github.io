@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Roussel Desmond Nzoyem" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "I'm a PhD candidate, Teaching Assistant, Outreach Ambassador at the University of Bristol." # Site description and default description, also used in jekyll-seo-tag
+description: "I'm a PhD Candidate, Teaching Assistant, Outreach Ambassador at the University of Bristol." # Site description and default description, also used in jekyll-seo-tag
 url: "https://desmond-rn.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/desmond-rn/desmond-rn.github.io"
@@ -126,7 +126,7 @@ navigation_header:
 - title: CV
   url: /resume/
 - title: Research
-  url: /blog/
+  url: /categories/
 - title: Blog
   url: /categories/
 - title: Art
