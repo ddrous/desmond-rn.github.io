@@ -10,7 +10,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -44,8 +44,8 @@ body {
 }
 
 .feature {
-  // padding-bottom: .4rem;
-  // margin-bottom: 1.6rem;
+  padding-bottom: .4rem;
+  margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
