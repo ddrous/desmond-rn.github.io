@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /elements/
+  url: /resume/
 - title: Research
   url: /categories/
 - title: Blog
@@ -137,6 +137,7 @@ navigation_header:
 #   url: /search/
 
 navigation_footer:
+- title: Powered by Jekyll & GutHub Pages
 - title: Template by David Darnes
   url: https://darn.es
 

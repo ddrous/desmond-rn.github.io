@@ -1,8 +1,8 @@
 ---
-title: 
+title: Home
 feature_text: |
   Hey there, I'm Roussel, pronounced as in "Roost". But if it sounds weird or complicated, just go with Desmond. This is a simple website documenting my journey in AI research, tech, and art.
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "A simple website about your average PhD researcher in AI"
 aside: true
 ---
