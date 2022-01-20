@@ -12,3 +12,7 @@ aside: true
 
 
 ## Education
+
+
+## Skills
+

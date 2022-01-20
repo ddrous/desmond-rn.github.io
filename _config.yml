@@ -137,7 +137,7 @@ navigation_header:
 #   url: /search/
 
 navigation_footer:
-- title: Powered by Jekyll & GutHub Pages
+- title: Powered by Jekyll & GitHub Pages
 - title: Template by David Darnes
   url: https://darn.es
 
