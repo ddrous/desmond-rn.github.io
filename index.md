@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Page
 feature_text: |
   A simple website about your average PhD researcher in AI
 feature_image: "https://picsum.photos/2560/600?image=873"
@@ -8,12 +8,12 @@ aside: true
 ---
 
 
-# Current Research
+## Current Research
 
-# Current Projects
+## Current Projects
 
-# Latest Posts
+## Latest Blog Posts
 
-# Hobbies and Interests
+## Hobbies and Interests
 
-# So, Yeah... That's Me !
+## So, Yeah... That's Me !
