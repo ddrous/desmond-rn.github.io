@@ -52,7 +52,7 @@ body {
   background-position: center;
   .container {
     min-height: 15vh;
-    max-height: 45vh;
+    max-height: 30vh;
     max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
