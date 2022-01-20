@@ -72,7 +72,7 @@ body {
 
 .nav {
   a {
-    padding: .01rem;
+    padding: .2rem;
   }
   &--social a {
     display: inline-block;
@@ -148,7 +148,7 @@ body {
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 34%;
+    max-width: 25%;
     margin-left: 4%;
     @include flex(1, 0, auto);
     opacity: 0.5;
