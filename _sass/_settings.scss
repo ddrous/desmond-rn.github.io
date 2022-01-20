@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Apex New, serif",
+  font-family: "Georgia, serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,7 +23,8 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  // font-family: '"Merriweather", serif',
+  font-family: "Apex New, serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75
