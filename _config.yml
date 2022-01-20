@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Roussel's personal website -" # Site name or title, also used in jekyll-seo-tag
+title: "Roussel Desmond Nzoyem" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "I'm a PhD candidate, TA, Outreach Ambasador at the University of Bristol." # Site description and default description, also used in jekyll-seo-tag
 url: "https://desmond-rn.github.io" # Site url, also used in jekyll-seo-tag
@@ -145,6 +145,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/roussel-desmond-nzoyem
   GitHub: https://github.com/desmond-rn
   link: https://desmond-rn.github.io/
+  StackExchange: https://stackexchange.com/users/11086797/desmond
   # Upwork: https://darn.es
   # BuyMeACoffee: https://darn.es
   RSS: /feed.xml

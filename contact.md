@@ -4,7 +4,7 @@ excerpt: "Contact me for a talk or anything"
 ---
 
 
-# Contact Form
+# Get in touch
 
 {% include site-form.html %}
 
@@ -12,7 +12,7 @@ excerpt: "Contact me for a talk or anything"
 {% raw %}{% include site-form.html %}{% endraw %}
 ```
 
-# Map Embed
+# Drop by the office
 
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
 
