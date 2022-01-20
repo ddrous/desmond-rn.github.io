@@ -51,7 +51,7 @@ body {
   background-size: cover;
   background-position: center;
   .container {
-    min-height: 35vh;
+    min-height: 105vh;
     // max-height: 4rem;
     max-width: 60%;
     @include flex-direction(column);
