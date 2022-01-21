@@ -37,11 +37,12 @@ details {
 }
 
 summary {
-  padding: 1rem;
-  // display: block;
+  padding: 0.5rem;
+  display: block;
   background: $accentColour;
-  padding-left: 0.0rem;
+  padding-left: 2.2rem;
   position: relative;
+  margin-left: -10px;
   cursor: pointer;
 }
 
