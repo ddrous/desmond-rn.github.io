@@ -15,7 +15,7 @@ This is a short summary of my CV. Below are my most recent work experiences, edu
 - __Private Instructor__ @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
 - __Webmaster__ @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
 {% endcapture %}
-{% capture summary %}Work experience{% endcapture %}{% include details.html %}
+{% capture summary %}## Work experience{% endcapture %}{% include details.html %}
 
 
 {% capture details %}
