@@ -10,7 +10,7 @@ styles: true
 $grey-color:         #757575;
 $grey-color-darkish: darken($grey-color, 15%);
 $brand-color:        #2a7ae2;
-$details-background-color: #dbdbdb;
+$details-background-color: #2c2b2b;
 
 details {
     border-radius: 10px;
@@ -24,6 +24,7 @@ details[open] {
 summary {
     margin: 0px 0px 8px 0px;
     outline:none;
+    color: red;
 }
 details summary {
     color: $brand-color;
