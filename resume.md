@@ -15,7 +15,7 @@ This is a short summary of my CV. Below are my most recent work experiences, edu
 - __Private Instructor__ @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
 - __Webmaster__ @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
 {% endcapture %}
-{% capture summary %}## Work experience{% endcapture %}{% include details.html %}
+{% capture summary %}### Work experience{% endcapture %}{% include details.html %}
 
 
 {% capture details %}
@@ -24,7 +24,7 @@ I've studied various topics in lots of places. Here are the most recent:
 - [__University of Strasbourg__](https://mathinfo.unistra.fr/){:target="_blank"}: In the MSc program, I explored Data analysis and Deep Learning, Signal processing, Modelling/Simulation/Optimization of physical problems, and High performance computing.
 - [__Aix-Marseille University__](https://sciences.univ-amu.fr/fr){:target="_blank"}. For my BSc in maths, I leaned dense abstract and theoretical notions; along with philosophical aspects of mathematics. 
 {% endcapture %}
-{% capture summary %}## Education{% endcapture %}{% include details.html %}
+{% capture summary %}### Education{% endcapture %}{% include details.html %}
 
 {% capture details %}
 I have tons of sills in diverse areas:
@@ -34,7 +34,7 @@ I have tons of sills in diverse areas:
 - __Web Development__: I've been experiencing with web technologies for long. I created a platformer, built and maintained various websites, both front-end and back-end. 
 - __Video creation__: It started as a hobby, and I'm now quite skilled with Blender, and the Adobe Suite for animation, character design, video editing.
 {% endcapture %}
-{% capture summary %}## Skills{% endcapture %}{% include details.html %}
+{% capture summary %}### Skills{% endcapture %}{% include details.html %}
 
 
 I won't detail all of my work experience, education nor skills here, because that's what my [LinkedIn](https://www.linkedin.com/in/roussel-desmond-nzoyem/){:target="_blank"} is for. Happy reading !
