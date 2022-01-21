@@ -9,26 +9,28 @@ aside: true
 
 This is a short summary of my CV. Below are my most recent work experiences, education history, and a few skills I'm particularly proud of.
 
-[expand]
 ## Work experience
 
-- R&D Intern @ [Jacques-Louis Lions Laboratory](https://www.ljll.math.upmc.fr/en/the-laboratory/?lang=fr){:target="_blank"}: Where I studied the initialization of a fracture in an elastic material and explored Gamma-convergence for the Francfort-Marigo fracture model.
+[expand]
 
-- R&D Intern @ [IRMA](https://irma.math.unistra.fr/){:target="_blank"}: We simulated the radiative transfer equation and used neural networks (CNN and V-Net) to solve the related inverse problem; This work is applicable to medical tomography for the detection of cancerous tissues.
+- __R&D Intern__ @ [Jacques-Louis Lions Laboratory](https://www.ljll.math.upmc.fr/en/the-laboratory/?lang=fr){:target="_blank"}: Where I studied the initialization of a fracture in an elastic material and explored Gamma-convergence for the Francfort-Marigo fracture model.
 
-- Private Instructor @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
+- __R&D Intern__ @ [IRMA](https://irma.math.unistra.fr/){:target="_blank"}: We simulated the radiative transfer equation and used neural networks (CNN and V-Net) to solve the related inverse problem; This work is applicable to medical tomography for the detection of cancerous tissues.
 
-- Webmaster @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
+- __Private Instructor__ @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
+
+- __Webmaster__ @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
+
 [/expand]
 
 ## Education
 
 I've studied various topics in lots of places. Here are the most recent:
-- [University of Bristol](https://www.bristol.ac.uk/cdt/interactive-ai/){:target="_blank"}: As part of my PhD, I'm currently focusing on Interactive AI, exploring subjects like Data-driven AI, Knowledge-driven AI, Human-AI interaction, etc.
+- [__University of Bristol__](https://www.bristol.ac.uk/cdt/interactive-ai/){:target="_blank"}: As part of my PhD, I'm currently focusing on Interactive AI, exploring subjects like Data-driven AI, Knowledge-driven AI, Human-AI interaction, etc.
 
-- [University of Strasbourg](https://mathinfo.unistra.fr/){:target="_blank"}: In the MSc program, I explored Data analysis and Deep Learning, Signal processing, Modelling/Simulation/Optimization of physical problems, and High performance computing.
+- [__University of Strasbourg__](https://mathinfo.unistra.fr/){:target="_blank"}: In the MSc program, I explored Data analysis and Deep Learning, Signal processing, Modelling/Simulation/Optimization of physical problems, and High performance computing.
 
-- [Aix-Marseille University](https://sciences.univ-amu.fr/fr){:target="_blank"}. For my BSc in maths, I leaned dense abstract and theoretical notions; along with philosophical aspects of mathematics. 
+- [__Aix-Marseille University__](https://sciences.univ-amu.fr/fr){:target="_blank"}. For my BSc in maths, I leaned dense abstract and theoretical notions; along with philosophical aspects of mathematics. 
 
 ## Skills
 
