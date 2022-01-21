@@ -17,7 +17,7 @@ This is a short summary of my CV. Below are my most recent work experiences, edu
 
 - Private Instructor @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
 
-- Webmaster @ [Musica Internationale](https://www.musicanet.org/en/){:target="_blank"}: I love music and I love web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
+- Webmaster @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
 
 
 ## Education
@@ -32,13 +32,15 @@ I've studied various topics in lots of places. Here are the most recent:
 ## Skills
 
 I have tons of sills in diverse areas:
-- Data Science: As a PhD student, I love the cross-disciplinary aspect of data science. From statistics to AI, I'm skilled in state-of-the art tools and services to lead projects.
+- __Learning new skills__: I personally think my greatest skill is learning fast and efficiently. And as I'm learning, returning that knowledge by teaching makes it the best part of the journey. 
 
-- Scientific Computing: I'm always with computers; making them do things efficiently is one of the problem that keeps me awake every night.
+- __Data Science__: As a PhD student, I love the cross-disciplinary aspect of data science. From statistics to AI, I'm skilled in state-of-the art tools and services to lead projects.
 
-- Web Development: I've been experiencing with web technologies for long. I created a platformer, built and maintained various websites, both front-end and back-end. 
+- __Scientific Computing__: I'm always with computers; making them do things efficiently is one of the problem that keeps me awake every night.
 
-- Video creation: It started as a hobby, and I'm now quite skilled with Blender, and the Adobe Suite for animation, character design, video editing.
+- __Web Development__: I've been experiencing with web technologies for long. I created a platformer, built and maintained various websites, both front-end and back-end. 
+
+- __Video creation__: It started as a hobby, and I'm now quite skilled with Blender, and the Adobe Suite for animation, character design, video editing.
 
 <!-- ### -->
 I won't detail all of my work experience, education nor skills here, because that's what my [LinkedIn](https://www.linkedin.com/in/roussel-desmond-nzoyem/){:target="_blank"} is for. Happy reading !
