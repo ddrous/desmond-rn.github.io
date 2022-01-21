@@ -11,7 +11,8 @@ details[open] {
 summary {
     margin: 0px 0px 8px 0px;
     outline:none;
-    background: $hoverColour;
+    background: $accentColour;
+    cursor: pointer;
 }
 details summary {
     color: $hoverColour;
