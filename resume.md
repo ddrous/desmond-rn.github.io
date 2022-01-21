@@ -9,6 +9,7 @@ aside: true
 
 This is a short summary of my CV. Below are my most recent work experiences, education history, and a few skills I'm particularly proud of.
 
+[expand]
 ## Work experience
 
 - R&D Intern @ [Jacques-Louis Lions Laboratory](https://www.ljll.math.upmc.fr/en/the-laboratory/?lang=fr){:target="_blank"}: Where I studied the initialization of a fracture in an elastic material and explored Gamma-convergence for the Francfort-Marigo fracture model.
@@ -18,7 +19,7 @@ This is a short summary of my CV. Below are my most recent work experiences, edu
 - Private Instructor @ [Complétude](https://www.completude.com/){:target="_blank"}: This is when I did some weekly monitoring of high school students in mathematics; Additionally, I did some group tutoring during holidays.
 
 - Webmaster @ [Musica International](https://www.musicanet.org/en/){:target="_blank"}: I love music and I enjoy web development. Here, I managed a website and its database composed of millions of scores; I also maintained the showcase website, and other software.
-
+[/expand]
 
 ## Education
 
