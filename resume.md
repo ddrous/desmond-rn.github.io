@@ -7,6 +7,7 @@ excerpt: "Work experience and education so far."
 aside: true
 ---
 
+I've studied various topics in lots of places. I have tons of sills in diverse areas.
 This is a short summary of my CV. Below are my most recent work experiences, education history, and a few skills I'm particularly proud of.
 
 {% capture details %}
@@ -19,7 +20,6 @@ This is a short summary of my CV. Below are my most recent work experiences, edu
 
 
 {% capture details %}
-I've studied various topics in lots of places. Here are the most recent:
 - [__University of Bristol__](https://www.bristol.ac.uk/cdt/interactive-ai/){:target="_blank"}: As part of my PhD, I'm currently focusing on Interactive AI, exploring subjects like Data-driven AI, Knowledge-driven AI, Human-AI interaction, etc.
 - [__University of Strasbourg__](https://mathinfo.unistra.fr/){:target="_blank"}: In the MSc program, I explored Data analysis and Deep Learning, Signal processing, Modelling/Simulation/Optimization of physical problems, and High performance computing.
 - [__Aix-Marseille University__](https://sciences.univ-amu.fr/fr){:target="_blank"}. For my BSc in maths, I leaned dense abstract and theoretical notions; along with philosophical aspects of mathematics. 
@@ -27,7 +27,6 @@ I've studied various topics in lots of places. Here are the most recent:
 {% capture summary %}### Education{% endcapture %}{% include details.html %}
 
 {% capture details %}
-I have tons of sills in diverse areas:
 - __Learning new skills__: I personally think my greatest skill is learning fast and efficiently. And as I'm learning, returning that knowledge by teaching makes it the best part of the journey. 
 - __Data Science__: As a PhD student, I love the cross-disciplinary aspect of data science. From statistics to AI, I'm skilled in state-of-the art tools and services to lead projects.
 - __Scientific Computing__: I'm always with computers; making them do things efficiently is one of the problem that keeps me awake every night.
