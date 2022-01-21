@@ -19,11 +19,20 @@
 // }
 
 
+// details {
+//   margin-bottom: 15px;
+//   box-shadow: 0 .1rem 1rem -.5rem rgba(0,0,0,.4);
+//   border-radius: 10px;
+//   padding: 0px 8px;
+// }
+
 details {
-  margin-bottom: 15px;
+  width: 100%;
+  margin: 0 auto ;
+  margin-bottom: .5rem;
   box-shadow: 0 .1rem 1rem -.5rem rgba(0,0,0,.4);
-  border-radius: 10px;
-  padding: 0px 8px;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 summary {
@@ -41,7 +50,7 @@ summary:before {
   border-style: solid;
   border-color: transparent transparent transparent rgb(10, 10, 10);
   position: absolute;
-  top: 1.3rem;
+  // top: 1.3rem;
   left: 1rem;
   transform: rotate(0);
   transform-origin: .2rem 50%;
