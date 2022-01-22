@@ -4,13 +4,10 @@ excerpt: "Contact me for a talk or anything"
 ---
 
 
-# Get in touch
+### Get in touch
 
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
 
 <!-- # Drop by the office
 

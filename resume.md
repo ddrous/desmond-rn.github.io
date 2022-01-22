@@ -1,13 +1,13 @@
 ---
 title: CV
 feature_text: |
-  Work experience and education so far.
+  Work experience, education, and skills so far.
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Work experience and education so far."
+excerpt: "Work experience, education, and skills so far."
 aside: true
 ---
 
-I've studied various topics in lots of places. I have tons of sills in diverse areas.
+I've studied various topics in lots of places. I have tons of skills in diverse areas.
 This is a short summary of my CV. Below are my most recent work experiences, education history, and a few skills I'm particularly proud of.
 
 {% capture details %}
