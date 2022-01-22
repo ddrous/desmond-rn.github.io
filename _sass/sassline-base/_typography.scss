@@ -11,7 +11,7 @@ html {
 
 // Site-wide base styles.
 body {
-  @include fontsize(theta, all);
+  @include fontsize(eta, all);
 
   font-family: unquote(map-get($bodytype, font-family));
   font-style: normal;
