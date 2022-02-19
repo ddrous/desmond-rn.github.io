@@ -23,6 +23,9 @@ In recent years, numerical models using the Finite Elements Method (FEM) to simu
 Get the [PDF](https://github.com/desmond-rn/phifem/blob/main/report/main.pdf){:target="_blank"}.
 
 
+
+[Hey there, check out our welcome page :)]({% post_url 2022-01-24-welcome %})
+
 ### Cancer Screening Using Deep Neural Networks
 
 With recent developpment in deep learning techniques, we implmented a VNet architecture are to solve a computarized romography inverse problem: given the signal on the boudaries of an organ, we want to rebuild the density map of the organ, hence detecting abnormaly high density zones potienl indicators of early-onset cancer. Our main tasks were:
