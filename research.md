@@ -36,4 +36,4 @@ Read more on [Google Scholar](https://scholar.google.com/citations?view_op=view_
 
 
 
-{% include nav-research-share.html twitter="dfdfdfdf" %}
+{% include nav-research-social.html twitter="dfdfdfdf" %}
