@@ -26,13 +26,14 @@ Get the [PDF](https://github.com/desmond-rn/phifem/blob/main/report/main.pdf){:t
 ### Cancer Screening Using Deep Neural Networks
 
 With recent developpment in deep learning techniques, we implmented a VNet architecture are to solve a computarized romography inverse problem: given the signal on the boudaries of an organ, we want to rebuild the density map of the organ, hence detecting abnormaly high density zones potienl indicators of early-onset cancer. Our main tasks were:
-    - Simulating the radiative transfer equation;
-    - Using neural networks CNN to solve the related inverse problem;
-    - Using a Vnet to improve anccuracy and rebuild the complete density map.
+- Simulating the radiative transfer equation;
+- Using neural networks CNN to solve the related inverse problem;
+- Using a Vnet to improve anccuracy and rebuild the complete density map.
 
 {% include video.html id="64_a3EVG0xQ" title="Radiative Transfer 2D Simulation" %}
 
 Read more on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=80GLOSUAAAAJ&citation_for_view=80GLOSUAAAAJ:u5HHmVD_uO8C){:target="_blank"}.
 
-{% include nav-research-share.html twitter="dfdfdfdf" %}
 
+
+{% include nav-research-share.html twitter="dfdfdfdf" %}
