@@ -1,8 +1,9 @@
 <nav class="nav  nav--research-social">
 
   {% if include.twitter %}
+    {% assign id = Twitter | downcase %}
     <a href="{{ include.twitter }}">
-      {% include icon.html id=twitter title=twitter %}
+      {% include icon.html id=id title=id %}
     </a>
   {% endif %}
 
