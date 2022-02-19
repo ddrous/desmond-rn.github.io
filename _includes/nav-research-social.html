@@ -1,5 +1,23 @@
 <nav class="nav  nav--research--social">
 
+  {% if include.scholar %}
+    <a href="{{ include.scholar }}">
+      {% include icon.html id="scholar" title="scholar" %}
+    </a>
+  {% endif %}
+
+  {% if include.github %}
+  <a href="{{ include.github }}">
+    {% include icon.html id="github" title="github" %}
+  </a>
+{% endif %}
+
+  {% if include.pdf %}
+    <a href="{{ include.pdf }}">
+      {% include icon.html id="pdf" title="pdf" %}
+    </a>
+  {% endif %}
+
   {% if include.twitter %}
     <a href="{{ include.twitter }}">
       {% include icon.html id="twitter" title="twitter" %}
