@@ -34,5 +34,5 @@ With recent developpment in deep learning techniques, we implmented a VNet archi
 
 Read more on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=80GLOSUAAAAJ&citation_for_view=80GLOSUAAAAJ:u5HHmVD_uO8C){:target="_blank"}.
 
-{% include nav-share.html %}
+{% include nav-research-share.html twitter="dfdfdfdf" %}
 
