@@ -127,10 +127,10 @@ navigation_header:
   url: /resume/
 - title: Research
   url: /research/
-- title: Blog
-  url: /categories/
 - title: Art
   url: /art/
+- title: Blog
+  url: /categories/
 - title: Contact
   url: /contact/
 # - title: Search

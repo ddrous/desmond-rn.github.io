@@ -10,9 +10,9 @@ aside: true
 
 ### Latest Research
 
-### Latest Projects
 
 ### Latest Blog Posts
+
 
 ### Hobbies and Interests
 I PACE: play football and video games; I animate; I code; and I engage in community work. I'm always on the lookout for something new to try. So I'm very much opened to suggestions.
