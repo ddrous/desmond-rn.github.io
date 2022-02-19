@@ -8,7 +8,7 @@ aside: false
 
 ### Fracture of Ice Floes in the Arctic
 The rapid shrinking of the Arctic ice cap these last decades is seen as one of the most striking
-manifestations of global warming. Our main goal in this study is to invesigate what happens when two or more ice floes collide, both in 1D and in 2D. We start by modelling an ice floe as a mass-spring-damper lattice, then we derive convergence garantees with respect to its dynamics (percussion, fracture, etc.). This work has several applications, from accurate climate modelling to the design of more resistant hull in boats that navigate the Arctic. 
+manifestations of global warming. Our main goal in this study is to investigate what happens when two or more ice floes collide, both in 1D and in 2D. We start by modelling an ice floe as a mass-spring-damper lattice, then we derive convergence guarantees with respect to its dynamics (percussion, fracture, etc.). This work has several applications, from accurate climate modelling to the design of more resistant hull in boats that navigate the Arctic. 
 
 {% include figure.html image="../assets/research-ice-floes.png" %}
 
@@ -30,10 +30,10 @@ In recent years, numerical models using the Finite Elements Method (FEM) to simu
 
 ### Cancer Screening Using Deep Neural Networks
 
-With recent developpment in deep learning techniques, we implmented a VNet architecture are to solve a computarized romography inverse problem: given the signal on the boudaries of an organ, we want to rebuild the density map of the organ, hence detecting abnormaly high density zones potienl indicators of early-onset cancer. Our main tasks were:
+With recent development in deep learning techniques, we implemented a VNet architecture are to solve a computerized tomography inverse problem: given the signal on the boundaries of an organ, we want to rebuild the density map of the organ, hence detecting abnormally high density zones which are potential indicators of early-onset cancer. Our main tasks were:
 - Simulating the radiative transfer equation;
 - Using neural networks CNN to solve the related inverse problem;
-- Using a Vnet to improve anccuracy and rebuild the complete density map.
+- Using a Vnet to improve accuracy and rebuild the complete density map.
 
 {% include video.html id="64_a3EVG0xQ" title="Radiative Transfer 2D Simulation" %}
 
