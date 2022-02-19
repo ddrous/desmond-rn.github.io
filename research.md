@@ -26,7 +26,6 @@ In recent years, numerical models using the Finite Elements Method (FEM) to simu
 {% include nav-research-social.html github="https://github.com/desmond-rn/phifem" pdf="https://github.com/desmond-rn/phifem/blob/main/report/main.pdf" %}
 
 
-[Hey there, check out our welcome page :)]({% post_url 2022-01-24-welcome %})
 
 ### Cancer Screening Using Deep Neural Networks
 
